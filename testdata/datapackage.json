@@ -22,7 +22,7 @@
         },
         {
           "name": "symbol",
-          "type": "string",
+          "type": "integer",
           "format": "default"
         },
         {
